@@ -277,3 +277,30 @@ Future enhancements for the project include:
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository!
+
+## 📊 Power BI Dashboards
+
+This project includes separate dashboards for different healthcare data domains.
+
+### 👨‍⚕️ Patient & Claims Analytics
+
+![Patient & Claims Dashboard](Screenshots/patient_claims_dashboard.png)
+
+---
+
+### 💊 Drug Analytics
+
+![Drug Analytics Dashboard](Screenshots/drug_analytics_dashboard.png)
+
+---
+
+### 🏥 Hospital Cost & Revenue Analytics
+
+![Hospital Cost Dashboard](Screenshots/hospital_cost_dashboard.png)
+
+---
+
+### 🩺 ICD Diagnosis Analytics
+
+![ICD Diagnosis Dashboard](Screenshots/icd_diagnosis_dashboard.png)
+

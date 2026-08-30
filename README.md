@@ -277,6 +277,7 @@ Future enhancements for the project include:
 ---
 
 ⭐ If you found this project interesting, feel free to star the repository!
+
 ## 📊 Power BI Dashboards
 
 This project includes separate dashboards for different healthcare analytics domains.
@@ -302,10 +303,4 @@ This project includes separate dashboards for different healthcare analytics dom
 ### 🏥 Bed Capacity Details
 
 ![Bed Capacity Details Dashboard](Screenshots/dashboard-bed-capacity-details.png)
-
-
-
-### 🩺 ICD Diagnosis Analytics
-
-![ICD Diagnosis Dashboard](Screenshots/icd_diagnosis_dashboard.png)
 

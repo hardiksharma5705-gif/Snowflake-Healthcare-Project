@@ -302,5 +302,5 @@ This project includes separate dashboards for different healthcare analytics dom
 
 ### 🏥 Bed Capacity Details
 
-![Bed Capacity Details Dashboard](Screenshots/dashboard-bed-capacity-details.png)
+![Bed Capacity Details Dashboard](Screenshots/EXACT-FILENAME.png)
 
